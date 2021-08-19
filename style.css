@@ -1,58 +1,12 @@
-.green {
-  background-color: #32be32;
-  height: 30px;
-  margin-bottom: 5px;
+footer {
+  margin-top: 10px;
 }
 
-.green .col {
-  border: 3px solid #333333;
+svg {
+  color: #131415;
 }
 
-.ultimo {
-  margin-bottom: 5px;
-}
-
-.ultimo .col {
-  background-color: #32be32;
-  height: 20px;
-  border: 3px solid #333333;
-}
-
-.red {
-  background-color: #be323e;
-  height: 100%;
-}
-
-.brown {
-  background-color: burlywood;
-  margin-bottom: 5px;
-}
-
-.brown .col {
-  border: 3px solid #333333;
-}
-
-.violet {
-  background-color: violet;
-  margin-bottom: 5px;
-}
-
-.violet .col {
-  border: 3px solid #333333;
-}
-
-.blue {
-  margin-bottom: 5px;
-}
-
-.blue div {
-  background-color: #2727ee;
-  border: 3px solid white;
-}
-
-.subgrande {
-  border: 5px solid #9c9c9c;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+body {
+  font-family: 'Roboto', sans-serif;
 }
 /*# sourceMappingURL=style.css.map */
